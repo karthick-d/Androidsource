@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/border_tab_layout"
+    android:orientation="horizontal">
+
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:id="@+id/addToWishlist"
+        android:layout_weight="1"
+        android:layout_marginEnd="1dp"
+        android:background="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+
+        <Button
+            android:id="@+id/addToWishlist0"
+            android:clickable="false"
+            android:layout_gravity="center"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/spacing_large"
+            android:layout_marginEnd="1dp"
+            android:text="@string/addToMyList"
+            android:textColor="@color/white"
+            android:drawableTint="@color/white"
+            android:drawablePadding="@dimen/spacing_medium"
+            android:drawableStart="@drawable/ic_favourite_outline"
+            android:tint="@color/white"
+            android:visibility="visible"/>
+
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+
+
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:id="@+id/removeFromWishlist"
+        android:layout_weight="1"
+        android:layout_marginEnd="1dp"
+        android:background="@color/lightGreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+
+        <Button
+            android:id="@+id/removeFromWishlist0"
+            android:layout_gravity="center"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTint="@color/white"
+            android:drawablePadding="@dimen/spacing_medium"
+            android:drawableStart="@drawable/ic_favourite"
+            android:layout_marginEnd="1dp"
+            android:padding="10dp"
+            android:text="@string/removeFromMyList"
+            android:textColor="@color/white"
+            android:tint="@color/defaultColor"
+            />
+
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:id="@+id/phoneBtn"
+        android:layout_weight="1"
+        android:layout_marginEnd="1dp"
+        android:background="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+
+        <Button
+            android:id="@+id/phoneBtn0"
+            android:clickable="false"
+            android:layout_gravity="center"
+            android:drawableTint="@color/white"
+            android:drawablePadding="@dimen/spacing_medium"
+            android:drawableStart="@drawable/ic_phone_outline"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="1dp"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:padding="10dp"
+            android:text="@string/call"
+            android:textColor="@color/white"
+            android:visibility="visible" />
+
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:id="@+id/webBtn"
+        android:layout_weight="1"
+        android:layout_marginEnd="1dp"
+        android:background="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+
+        <Button
+            android:id="@+id/webBtn0"
+            android:clickable="false"
+            android:layout_gravity="center"
+            android:drawableTint="@color/white"
+            android:drawablePadding="@dimen/spacing_medium"
+            android:drawableStart="@drawable/ic_web"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:padding="10dp"
+            android:text="@string/website"
+            android:textColor="@color/white"
+            android:tint="@color/white"
+            android:visibility="visible" />
+
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+
+</LinearLayout>

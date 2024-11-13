@@ -1,0 +1,448 @@
+<resources>
+    <!-- update this 3 keys and compile your code from here  -->
+    <!-- Set your  application ID-->
+
+    <!--General -->
+
+    <string name="Home">дом</string>
+    <string name="ManageThings">управляющий делами</string>
+    <string name="drawer_open">открыть</string>
+    <string name="drawer_close">закрывать</string>
+    <string name="search">поиск</string>
+    <string name="options_exit">Выход</string>
+    <string name="oups_no_item_found">Ой!! Элемент не найден</string>
+    <string name="about">о нас</string>
+    <string name="Favoris">избранное</string>
+    <string name="About_us">о нас</string>
+    <string name="Settings">настройки</string>
+    <string name="MapStores">Гео магазины</string>
+    <string name="Login">логин</string>
+    <string name="Logout">Выйти</string>
+    <string name="parameter">параметр</string>
+    <string name="close">закрывать</string>
+    <string name="categories">категории</string>
+
+
+    <string name="my_stores">"мои магазины</string>
+    <string name="my_events">"мои события</string>
+
+    <!--category--><![CDATA[
+    >
+
+
+    ]]><!--event-->
+
+
+    <!--notification & messages-->
+    <string name="check_network">проверьте свою сеть</string>
+    <string name="network_error">Нет сети! нажмите, чтобы повторить попытку</string>
+    <string name="check_nework">проверьте подключение к сети</string>
+    <string name="enable_network">Включите сетевое подключение на вашем устройстве</string>
+
+    <string name="editProfile">Редактировать профиль</string>
+
+    <!--store-->
+    <string name="store_to_far_map">Слишком далеко, чтобы показать маршрут</string>
+    <string name="store_call_error">Ошибка в вашем телефонном звонке</string>
+
+    <!--messages settings-->
+
+    <string name="settings_notifications">УВЕДОМЛЕНИЯ</string>
+    <string name="settings_app_infos">приложение</string>
+
+
+    <!-- OFFERS -->
+    <string name="settings_notification_offers">Получить уведомление о специальном предложении</string>
+    <string name="settings_notification_offers_title">Предлагает уведомления</string>
+
+
+    <!-- EVENTS -->
+    <string name="settings_notification_events">Получайте уведомления, когда рядом с вами происходит событие</string>
+    <string name="settings_notification_events_title">Уведомления о неподалеку событиях</string>
+
+    <!-- STORES -->
+    <string name="settings_notification_stores">Получайте уведомления, когда рядом с вами есть магазин</string>
+    <string name="settings_notification_stores_title">Уведомления о ближайших магазинах</string>
+
+
+    <!-- MESSENGER -->
+    <string name="settings_notification_messenger">Получать уведомления, когда есть новые сообщения</string>
+    <string name="settings_notification_messenger_title">Уведомления мессенджера</string>
+
+    <!-- DISTANCE -->
+    <string name="settings_notification_distance_dis">%1$s %2$s</string>
+    <!-- APP_INFOS -->
+    <string name="settings_app_infos_title">применение версии</string>
+
+    <!--login & sign up-->
+
+    <string name="lessThan1km">Меньше, чем 1 км</string>
+    <string name="MoreThan2km">+2 км</string>
+    <string name="MoreThan5km">+5 км</string>
+    <string name="MoreThan10km">+10 км</string>
+
+    <string name="description">Detail</string>
+
+    <string name="permission_disabled_notice">Это приложение предназначено для работы с разрешением на определение местоположения, если вы отмените это разрешение, вы можете впоследствии столкнуться с проблемами в работе.</string>
+    <string name="save">Save</string>
+    <string name="find_new_neighbours">Найдите новых соседей</string>
+
+
+    <string name="youHaveDiscussions">У вас %1$d обсуждений %2$d сообщений</string>
+    <string name="youHaveMessage">У тебя новое сообщение</string>
+    <string name="offers">Предложения</string>
+    <string name="reviews">Отзывов: %1$s </string>
+    <string name="noOffers">нет предложений</string>
+    <string name="noReviews">нет отзывов</string>
+    <string name="addReview">добавить отзыв</string>
+    <string name="settings">настройки</string>
+    <string name="pseudo">псевдо</string>
+    <string name="error">Упс!</string>
+
+    <string name="selectRating">Пожалуйста, выберите от 1 звезды до 5 звезд</string>
+    <string name="pleaseWriteReview" translatable="false">Пожалуйста, напишите отзыв</string>
+    <string name="writeReview">Написать обзор</string>
+    <string name="thankYou">Спасибо!</string>
+
+    <string name="email">е-мейл</string>
+
+
+    <string name="people_around_me">люди вокруг меня</string>
+    <string name="promo">продвижение</string>
+
+
+    <string name="fileUploading">загрузить …</string>
+
+    <string name="rateUs">Пожалуйста, оцените приложение</string>
+    <string name="rateIt">rate it</string>
+
+    <string name="you_ve_already_reviewd">Вы уже добавили свой отзыв!</string>
+
+    <string name="shared_text">%1$s — только на %2$s \n %3$s</string>
+    <string name="reload">Перезагрузить</string>
+    <string name="mail">Почта</string>
+    <string name="today">сегодня</string>
+    <string name="Send_message">Отправить сообщение</string>
+    <string name="version">версия :</string>
+    <string name="phone">телефон</string>
+    <string name="app_privacy">политика конфиденциальности</string>
+    <string name="app_term_of_uses">Условия эксплуатации</string>
+
+
+    <string name="offer_start_at">Начать с %1$s</string>
+    <string name="offer_end_at">Конец на %1$s</string>
+    <string name="offer_ended_at">Завершено на %1$s</string>
+
+
+    <string name="nbr_stores_message">%1$s магазинов</string>
+
+
+    <string name="tab_stores">магазины</string>
+    <string name="tab_offers">Предложения</string>
+    <string name="tab_events">события</string>
+    <string name="your_destination">ваш  назначения</string>
+    <string name="refresh">Обновить</string>
+    <string name="no_users">Нет пользователей</string>
+    <string name="settings_notification_upcomingevent">Получать уведомления, когда есть новое предстоящее событие</string>
+    <string name="settings_notification_upcomingevent_title">Предстоящее событие</string>
+
+
+    <string name="upComingEventMessage">Предстоящее событие</string>
+    <string name="upComingEventsMessage">Предстоящие события в ближайшее время</string>
+    <string name="upcomingTag">Предстоящие</string>
+    <string name="myUpComingEvents">Предстоящие События</string>
+    <string name="chat_notification_title">У вас есть новое сообщение</string>
+    <string name="authentification_error_msg">Имя пользователя и пароль неверны.</string>
+    <string name="gallery">Галерея</string>
+    <string name="noImages">Нет фото</string>
+    <string name="enable_network_map_direction">Пожалуйста, включите вашу сеть</string>
+    <string name="enable_gps_map_direction">пожалуйста Сначала разрешать GPS</string>
+
+
+    <string name="skip">пропускать</string>
+    <string name="start">начало</string>
+    <string name="intro_slide_1_title">Быстро найти рестораны, отели и рестораны магазины</string>
+    <string name="intro_slide_1_description">Попробуйте различные рестораны поблизости , карта проложит вам маршрут, чтобы получить самые интересные предложения </string>
+    <string name="intro_slide_2_title">Предстоящее событие</string>
+    <string name="intro_slide_2_description">Посещайте мероприятия, организованные некоторыми из ваших любимых магазинов, участвуйте и получайте push-уведомления о предстоящем мероприятии </string>
+    <string name="intro_slide_3_title">Магазины поблизости</string>
+    <string name="intro_slide_3_description"> Предложения, акции и скидки всегда доступны для изучения в каждом ближайшем магазине .</string>
+    <string name="intro_slide_4_title">Оцените свой лучший магазин</string>
+    <string name="intro_slide_4_description">Изучите отзывы, прежде чем покровительствовать какому-либо магазину, и оставьте свой отзыв.</string>
+    <string name="alert_gps_dialog">Вам нужно разрешить доступ к местоположению в бронировании, чтобы использовать приложение, попробуйте еще раз и нажмите OK. </string>
+    <string name="confirm_gps_relaunch">Попробуйте еще раз</string>
+    <string name="next">Следующий</string>
+    <string name="block">Блокировать</string>
+    <string name="unblock">Разблокировать</string>
+    <string name="less_than_1_km">Менее 1 км</string>
+    <string name="noDiscussions">Нет обсуждения</string>
+    <string name="searching_for_stores_bearby">Поиск ближайших магазинов</string>
+    <string name="title_activity_v2_main" translatable="false">ОсновнаяактивностьV2</string>
+    <string name="Account">счет</string>
+    <string name="price">Цена</string>
+    <string name="discount">Скидка</string>
+    <string name="photo">фото</string>
+    <string name="editPassword">редактировать</string>
+    <string name="navigation_drawer_open">Открыть навигацию</string>
+    <string name="navigation_drawer_close">Закрыть навигацию</string>
+    <string name="stores_nearby">близлежащие магазины</string>
+    <string name="show_more">Показать все</string>
+    <string name="view_all">Посмотреть все</string>
+    <string name="offers_nearby">близлежащее предложения</string>
+    <string name="events_nearby">Предстоящие События</string>
+    <string name="people_nearby">близлежащее люди</string>
+    <string name="enter_full_name">Введите полное имя</string>
+    <string name="full_name">Полное имя</string>
+    <string name="enter_email">Введите адрес электронной почты</string>
+    <string name="enter_login">вписывать авторизоваться</string>
+    <string name="login">авторизоваться</string>
+    <string name="login_required">Эта операция требует аутентификации</string>
+    <string name="authentication">авторизоваться</string>
+    <string name="open_time">Открыть</string>
+    <string name="open_now">Открой сейчас</string>
+    <string name="closed">Закрыто</string>
+    <string name="join">вступать</string>
+    <string name="call">Вызов</string>
+    <string name="unjoin">присоединился</string>
+    <string name="select_category">выберите категорию</string>
+    <string name="discount_less_than_25" translatable="false">0-25%</string>
+    <string name="discount_less_than_50" translatable="false">25-50%</string>
+    <string name="discount_less_than_75" translatable="false">50-75%</string>
+    <string name="discount_less_than_100" translatable="false">75-100%</string>
+    <string name="write_name_address_city">Напишите имя, адрес, город</string>
+    <string name="website">Веб-сайт</string>
+    <string name="begin_date">Дата начала</string>
+    <string name="open_only">Только открыто</string>
+    <string name="order_by_recent">Недавний</string>
+    <string name="order_by_geo">гео</string>
+    <string name="location">Расположение</string>
+    <string name="notify_me">уведомить меня</string>
+    <string name="remind_me">Напомни мне</string>
+    <string name="remind_me_msg">Нажав на Напомнить, вы получите уведомление об этом событии</string>
+    <string name="stores_result">результаты магазины</string>
+    <string name="events_result">Результат событий</string>
+    <string name="offers_result">предлагает результат</string>
+    <string name="recent_offers">недавний предложения </string>
+    <string name="current_location">Текущее местоположение</string>
+    <string name="price_one_number" translatable="false">$</string>
+    <string name="price_two_numbers" translatable="false">$$</string>
+    <string name="price_three_numbers" translatable="false">$$$</string>
+    <string name="price_four_numbers" translatable="false">$$$$</string>
+    <string name="radius">Радиус</string>
+    <string name="distance">Расстояние</string>
+    <string name="opening_time_label">Время открытия</string>
+    <string name="top_categories">Категории</string>
+    <string name="notifications">Уведомления</string>
+    <string name="inbox">Входящие</string>
+    <string name="network_not_available">Не удалось загрузить данные с сервера</string>
+    <string name="retry">повторить попытку</string>
+    <string name="try_a_refresh_the_page">Попробуйте обновить страницу</string>
+    <string name="no_feed_yet">Фида пока нет</string>
+    <string name="no_message_yet">Пока нет сообщений</string>
+    <string name="no_message_inbox">В вашем почтовом ящике пока нет сообщений! Начните общаться с друзьями</string>
+    <string name="remove_from_bookmark">Удалить из закладок</string>
+    <string name="error_try_later" translatable="false">Что-то пошло не так, попробуйте позже!</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="business_manager">Управляющий делами</string>
+    <string name="login_first">Сначала войдите</string>
+    <string name="do_you_want_to_change_your_location">Вы хотите изменить свое местоположение?</string>
+    <string name="search_placeholder">Найдите рестораны, отели...</string>
+
+
+    <string name="dp_view_store_on">открыть магазин в приложении</string>
+    <string name="dp_view_offer_on">открыть магазин в приложении</string>
+    <string name="dp_view_event_on">открыть магазин в приложении</string>
+
+
+    <string name="_DP_HOST_NAME" translatable="false">@string/DP_HOST_NAME</string>
+    <string name="_DP_STORE_MESSAGE" translatable="false">@string/DP_STORE_MESSAGE</string>
+    <string name="_DP_OFFER_MESSAGE" translatable="false">@string/DP_OFFER_MESSAGE</string>
+    <string name="_DP_EVENT_MESSAGE" translatable="false">@string/DP_EVENT_MESSAGE</string>
+
+    <!--Set your google map key-->
+    <string name="map_api_key0" translatable="false">@string/map_api_key</string>
+    <string name="login_create_account">Войти / Создать аккаунт</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="sign_up">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="have_an_account">ИМЕТЬ АККАУНТ?</string>
+
+
+    <string name="monday">понедельник</string>
+    <string name="tuesday">вторник</string>
+    <string name="wednesday">среда</string>
+    <string name="thursday">четверг</string>
+    <string name="friday">пятница</string>
+    <string name="saturday">суббота</string>
+    <string name="sunday">воскресенье</string>
+    <string name="redirected_to">\"Перенаправлено на\"</string>
+    <string name="people_near_by">Люди неподалеку</string>
+    <string name="loading">Загрузка...</string>
+    <string name="keep_current_location">Текущее местоположение</string>
+    <string name="change_location">Change location</string>
+
+    <string name="your_order_has_been_sent_successfully">Ваше бронирование успешно отправлено!</string>
+    <string name="complet_required_fileds">Обязательно сначала заполните обязательные поля!</string>
+    <string name="location_format_not_correct">Неверный формат местоположения</string>
+    <string name="location_address_not_correct">Адрес местонахождения пуст</string>
+    <string name="click_marker_to_pick_location">Нажмите правый маркер, чтобы выбрать свое местоположение</string>
+
+
+    <string name="promotional_video">Рекламный ролик</string>
+    <string name="checkout">проверять</string>
+    <string name="detail">Деталь</string>
+    <string name="confirm">Подтверждать</string>
+    <string name="payment">Оплата</string>
+    <string name="done">сделанный</string>
+    <string name="payment_error">Ошибка оплаты</string>
+    <string name="confirm_order">Подтвердить бронирование</string>
+    <string name="confirm_payment">подтвердить платеж</string>
+    <string name="required_field">Обязательные поля</string>
+    <string name="find_my_place">Найди мое место</string>
+    <string name="something_went_wrong">Что-то пошло не так, попробуйте позже!</string>
+    <string name="order_detail_checkout">Детали бронирования</string>
+    <string name="pay_now">Заплатить сейчас</string>
+    <string name="booking_id">Идентификатор бронирования: %1$d</string>
+    <string name="basic_detail">основные детали</string>
+    <string name="item_s">услуги</string>
+    <string name="total">Общий</string>
+    <string name="booking_status">статус бронирования</string>
+    <string name="booking_detail">Деталь бронирования %1$s</string>
+    <string name="book_btn">бронирование</string>
+    <string name="order_btn">Подтверждать</string>
+    <string name="order_detail_btn">Детали бронирования</string>
+    <string name="service_booking">Услуги</string>
+    <string name="reservation_detail">Детали бронирования</string>
+    <string name="pickup_from">подробности о магазине</string>
+    <string name="store">магазин</string>
+    <string name="address">адрес</string>
+    <string name="go_to">Посетить магазин</string>
+    <string name="booking">бронирование</string>
+    <string name="Distance">единица расстояния</string>
+    <string name="distance_100">+ 100 %1$s</string>
+    <string name="Date">дата</string>
+    <string name="bookingid">Идентификатор бронирования</string>
+    <string name="no_service_found_for_this_store">К сожалению, в этом магазине нет услуг</string>
+    <string name="discover_stores_nearby">Откройте для себя близлежащие места</string>
+    <string name="top_picked_for_you">Магазины с самым высоким рейтингом</string>
+    <string name="variant_additional_cost">%1$s</string>
+    <string name="subtotal">Промежуточный итог</string>
+    <string name="no_service_found">Служба не найдена</string>
+    <string name="paid_cash">оплачивается наличными</string>
+    <string name="payment_spot">платить наличными</string>
+    <string name="delete">Удалить</string>
+    <string name="user_not_logged">Пользователь не зарегистрирован</string>
+
+    <string name="receive_notif">Dвы хотите получать уведомления ?</string>
+    <string name="recieve_notif_confirmation">\"Нажав "Уведомить меня", вы получите уведомление от этой компании\"</string>
+
+    <string-array name="distanceUnit">
+        <item>миля</item>
+        <item>км</item>
+    </string-array>
+    <string name="title_activity_report_issue">сообщитьопроблемеактивности</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="previous">Предыдущий</string>
+
+    <string name="hello_first_fragment">Привет первый фрагмент</string>
+    <string name="report_other_issues">Сообщить о других проблемах</string>
+    <string name="provide_more_detal_for_issue">Предоставьте более подробную информацию о проблеме</string>
+    <string name="report_saved">\"Отчет сохранен, спасибо\"</string>
+    <string name="report_issue">Сообщить о проблеме</string>
+    <string name="disableAccount">Отключить аккаунт</string>
+    <string name="icon_angel_up">&#xf015;</string>
+
+
+
+    <string name="MapStoresMenu">Гео магазины</string>
+    <string name="review_title">Отзывы</string>
+    <string name="load_more">Загрузи больше</string>
+    <!-- WE ADDED SOME MESSAGES IN UPDATE V1.2 YOU CAN PUT THEY IN YOUR MAIN STRINGS.XML -->
+    <string name="logout_alert">Your account has been logged out because your account has been disabled or deleted\See your administrator for more information</string>
+    <string name="store_not_found">Не найдено!</string>
+    <string name="seeMoreSlider">узнать больше</string>
+    <string name="MyQrCode">QR код</string>
+    <string name="here_is_my_code">Здравствуйте, %1$s!\nВот ваш QR-код</string>
+    <string name="scan_and_check_my_profile"><![CDATA[Scan & check the profile]]></string>
+    <string name="saveSuccessful">Успешно сохранено!</string>
+    <string name="removeSuccessful">Удален успешно!</string>
+    <string name="all_categories_menu">все</string>
+    <string name="get_coupon_code">Получить купон</string>
+    <string name="scan_and_check_coupon">Отсканируйте, чтобы проверить купон</string>
+    <string name="sca">сканирование</string>
+    <string name="nav_open">открыть</string>
+    <string name="nav_close">закрывать</string>
+    <string name="my_account">мой счет</string>
+    <string name="dashboard">панель приборов</string>
+    <string name="scan">сканирование</string>
+    <string name="dont_have_permission">У вас недостаточно прав для управления бизнесом.</string>
+    <string name="qr_code_scanner">Сканер QR-кода</string>
+    <string name="address_label">Адрес</string>
+    <string name="my_coupons">мои купоны</string>
+    <string name="plans">планы</string>
+    <string name="youtube">Youtube</string>
+
+    <string name="coupon_unverified">Непроверено</string>
+    <string name="coupon_verified">проверено</string>
+    <string name="coupon_used">использовал</string>
+    <string name="coupon_canceled">отменен</string>
+
+    <string name="coupon_code">Код: %1$s</string>
+
+    <string name="copy_coupon_code">скопировать код</string>
+    <string name="remove">удалять</string>
+    <string name="scan_profile_qr_code">Сканировать профиль пользователя</string>
+    <string name="scan_coupon_qr_code">Отсканировать купон</string>
+    <string name="scan_reservation_qr_code">Скан резервации (Бронирование)</string>
+    <string name="my_bookings">мои заказы</string>
+    <string name="continueButton">Продолжать</string>
+    <string name="cancel">отмена</string>
+    <string name="checking_value_profile">Проверка профиля</string>
+    <string name="checking_value_booking">Проверка бронирования</string>
+    <string name="checking_value_coupon">Проверка купона</string>
+    <string name="user_not_found">Пользователь не найден!</string>
+    <string name="user_verified">Пользователь подтвержден</string>
+    <string name="user_unverified">Пользователь не проверен</string>
+    <string name="user_disabled">пользователь отключен</string>
+    <string name="continueScaningButton">continue Scanning</string>
+    <string name="booking_not_found">бронирование не найдено</string>
+    <string name="moreDetailBooking">Подробнее</string>
+    <string name="unpaid">Неоплачиваемый</string>
+    <string name="updateStatusButton">обновить состояние</string>
+    <string name="update_status">Обновить статус бронирования</string>
+    <string name="confirmBooking">Подтвердить бронирование</string>
+    <string name="cancelBooking">отменить бронирование</string>
+    <string name="dissmis">увольнять</string>
+    <string name="coupon_not_valid">Купон недействителен</string>
+    <string name="mark_as_verified">Отметить как проверенное</string>
+    <string name="mark_as_declined">Отметить как отклоненный</string>
+    <string name="mark_as_used">Отметить как использованный</string>
+    <string name="update_coupon_status">Обновить статус купона</string>
+    <string name="mark_as_unverified">Отметить как непроверенный</string>
+    <string name="contact">контакт</string>
+    <string name="alert">тревога</string>
+    <string name="are_you_sure_alert">вы уверены?</string>
+    <string name="booking_status_updated">"Статус бронирования обновлен! "</string>
+    <string name="receive_notifications">Получать уведомления</string>
+    <string name="app_notifications">Уведомления приложений</string>
+    <string name="create_account">зарегистрироваться</string>
+    <string name="term_of_uses_login_text"><![CDATA[By login in %1$s, you accept our <b>term of use</b> and <b>privacy policy</b>]]></string>
+    <string name="term_of_uses_signup_text"><![CDATA[By creating account in %1$s, you accept our <b>term of use</b> and <b>privacy policy</b>]]></string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="auth_sccuccful">Вы успешно вошли в систему</string>
+    <string name="auth_failed">Ошибка аутентификации</string>
+    <string name="show_coupon">Показать купон</string>
+    <string name="limited">Ограниченное</string>
+    <string name="limit_execeeded">Лимит превышен</string>
+    <string name="change_language">Изменить язык</string>
+    <string name="english">English</string>
+    <string name="my_profile">мой профайл</string>
+    <string name="selected_transferBank">Выбрав банковский перевод, вы получите электронное письмо для завершения платежа.</string>
+    <string name="to_apply_languageMessage">Чтобы применить язык, вы должны перезапустить приложение</string>
+    <string name="business_manager_widget_title">%1$s для бизнеса</string>
+    <string name="business_manager_widget_description">Повысьте лидогенерацию и привлечение клиентов.</string>
+    <string name="phone_empty">Phone field is empty</string>
+
+</resources>

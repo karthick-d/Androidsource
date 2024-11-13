@@ -1,0 +1,442 @@
+<resources>
+    <!-- update this 3 keys and compile your code from here  -->
+    <!-- Set your  application ID-->
+
+    <!--General -->
+
+    <string name="Home">inicio</string>
+    <string name="ManageThings">gerente de negocios</string>
+    <string name="drawer_open">abrir</string>
+    <string name="drawer_close">cerrar</string>
+    <string name="search">Buscar</string>
+    <string name="options_exit">salida</string>
+    <string name="oups_no_item_found">oops!! No se encontró ningún artículo</string>
+    <string name="about">Sobre nosotros </string>
+    <string name="Favoris">Favoritos</string>
+    <string name="About_us">Sobre nosotros</string>
+    <string name="Settings">Ajustes</string>
+    <string name="MapStores">Tiendas geo</string>
+    <string name="Login">iniciar sesión</string>
+    <string name="Logout">Cerrar sesión</string>
+    <string name="parameter">parámetro</string>
+    <string name="close">cerrar</string>
+    <string name="categories">categorías</string>
+
+
+    <string name="my_stores">"mis tiendas</string>
+    <string name="my_events">"mis eventos</string>
+
+    <!--category--><![CDATA[
+    >
+
+
+    ]]><!--event-->
+
+
+    <!--notification & messages-->
+    <string name="check_network">Revisa tu red</string>
+    <string name="network_error">Sin red! haga clic para volver a intentarlo</string>
+    <string name="check_nework">comprobar su conexión de red</string>
+    <string name="enable_network">Habilite la conexión de red en su dispositivo</string>
+
+    <string name="editProfile">Editar perfil</string>
+
+    <!--store-->
+    <string name="store_to_far_map">Demasiado lejos para mostrar la ruta</string>
+    <string name="store_call_error">Error en su llamada telefónica</string>
+
+    <!--messages settings-->
+
+    <string name="settings_notifications">notificaciones</string>
+    <string name="settings_app_infos">aplicación</string>
+
+
+    <!-- OFFERS -->
+    <string name="settings_notification_offers">Reciba una notificación de ofertas especiales</string>
+    <string name="settings_notification_offers_title">Notificaciones de ofertas</string>
+
+
+    <!-- EVENTS -->
+    <string name="settings_notification_events">Recibe una notificación cuando haya un evento cerca de ti</string>
+    <string name="settings_notification_events_title">Notificaciones de eventos cercanos</string>
+
+    <!-- STORES -->
+    <string name="settings_notification_stores">Recibe una notificación cuando haya una tienda cerca de ti</string>
+    <string name="settings_notification_stores_title">Notificaciones de tiendas cercanas</string>
+
+
+    <!-- MESSENGER -->
+    <string name="settings_notification_messenger">Recibir notificación cuando haya nuevos mensajes</string>
+    <string name="settings_notification_messenger_title">notificaciones de mensajería</string>
+
+    <!-- DISTANCE -->
+    <string name="settings_notification_distance_dis">%1$s %2$s</string>
+    <!-- APP_INFOS -->
+    <string name="settings_app_infos_title">Versión de la aplicación</string>
+
+    <!--login & sign up-->
+
+    <string name="lessThan1km">Menos de 1 km</string>
+    <string name="MoreThan2km">+2 Km</string>
+    <string name="MoreThan5km">+5 Km</string>
+    <string name="MoreThan10km">+10 Km</string>
+
+    <string name="description">detalle</string>
+
+    <string name="permission_disabled_notice">Esta aplicación está diseñada para funcionar con permiso de ubicación. Si cancela este permiso, es posible que tenga problemas de funcionamiento.</string>
+    <string name="save">guardar</string>
+    <string name="find_new_neighbours">Encontrar nuevos vecinos</string>
+
+
+    <string name="youHaveDiscussions">Tienes %1$d discusiones %2$d mensajes</string>
+    <string name="youHaveMessage">tienes un nuevo mensaje</string>
+    <string name="offers">ofertas</string>
+    <string name="reviews">%1$s Reseña(s) </string>
+    <string name="noOffers">no hay ofertas</string>
+    <string name="noReviews">Sin reseñas</string>
+    <string name="addReview">agregar la reseña</string>
+    <string name="settings">ajustes</string>
+    <string name="pseudo">seudo</string>
+    <string name="error">¡ups!</string>
+
+    <string name="selectRating">Seleccione de 1 estrella a 5 estrellas</string>
+    <string name="pleaseWriteReview" translatable="false">Por favor escriba una reseña</string>
+    <string name="writeReview">escribe reseña</string>
+    <string name="thankYou">Gracias!</string>
+
+    <string name="email">E-mail</string>
+
+
+    <string name="people_around_me">La gente alrededor de mi</string>
+    <string name="promo">promoción</string>
+
+
+    <string name="fileUploading">Subiendo …</string>
+
+    <string name="rateUs">Califique en la solicitud</string>
+    <string name="rateIt">Puntúalo</string>
+
+    <string name="you_ve_already_reviewd">Ya has añadido tu reseña!</string>
+
+    <string name="shared_text">%1$s - Solo en %2$s \n %3$s</string>
+    <string name="reload">recargar</string>
+    <string name="mail">correo</string>
+    <string name="today">hoy</string>
+    <string name="Send_message">enviar un mensaje</string>
+    <string name="version">versión :</string>
+    <string name="phone">teléfono</string>
+    <string name="app_privacy">política de privacidad</string>
+    <string name="app_term_of_uses">Condiciones de uso</string>
+
+
+    <string name="offer_start_at">Empezar en %1$s</string>
+    <string name="offer_end_at">Terminar en %1$s</string>
+    <string name="offer_ended_at">Terminó en %1$s</string>
+
+
+    <string name="nbr_stores_message">%1$s tiendas</string>
+
+
+    <string name="tab_stores">Tiendas</string>
+    <string name="tab_offers">Ofertas</string>
+    <string name="tab_events">Eventos</string>
+    <string name="your_destination">Tu destino</string>
+    <string name="refresh">Actualizar</string>
+    <string name="no_users">Sin usuarios</string>
+    <string name="settings_notification_upcomingevent">Recibir una notificación cuando haya un nuevo evento próximo</string>
+    <string name="settings_notification_upcomingevent_title">Próximo evento</string>
+
+
+    <string name="upComingEventMessage">Próximo evento</string>
+    <string name="upComingEventsMessage">Próximos eventos pronto</string>
+    <string name="upcomingTag">Próximos</string>
+    <string name="myUpComingEvents">Próximos Eventos</string>
+    <string name="chat_notification_title">Tienes un nuevo mensaje</string>
+    <string name="authentification_error_msg">El nombre de usuario y la contraseña son incorrectos.</string>
+    <string name="gallery">Galería</string>
+    <string name="noImages">Sin fotos</string>
+    <string name="enable_network_map_direction">Habilite su red</string>
+    <string name="enable_gps_map_direction">Habilite su GPS primero</string>
+
+
+    <string name="skip">Saltar</string>
+    <string name="start">Comenzar</string>
+    <string name="intro_slide_1_title">encuentra rápidamente Restaurantes, Hoteles y tiendas</string>
+    <string name="intro_slide_1_description">Prueba diferentes restaurantes cercanos, un mapa te guiará la ruta para conseguir las ofertas más interesantes.</string>
+    <string name="intro_slide_2_title">Upcoming Event</string>
+    <string name="intro_slide_2_description">Asista a eventos organizados por algunas de sus tiendas favoritas, participe y reciba una notificación automática para el próximo evento </string>
+    <string name="intro_slide_3_title">Tiendas cercanas</string>
+    <string name="intro_slide_3_description"> Las ofertas, promociones y descuentos siempre quedan a su discreción para explorar cada tienda.</string>
+    <string name="intro_slide_4_title">Valora tu mejor tienda</string>
+    <string name="intro_slide_4_description">Explore los comentarios antes de patrocinar cualquier tienda y deje el suyo también</string>
+    <string name="alert_gps_dialog">Debe permitir el acceso a la ubicación en la reserva para usar la aplicación, intente nuevamente y presione Aceptar </string>
+    <string name="confirm_gps_relaunch">Intentar otra vez</string>
+    <string name="next">Siguiente</string>
+    <string name="block">Bloquear</string>
+    <string name="unblock">Desatascar</string>
+    <string name="less_than_1_km">Menos de 1 km</string>
+    <string name="noDiscussions">Sin discusión</string>
+    <string name="searching_for_stores_bearby">Buscando tiendas cercanas</string>
+    <string name="title_activity_v2_main" translatable="false">ActividadPrincipalV2</string>
+    <string name="Account">Cuenta</string>
+    <string name="price">Precio</string>
+    <string name="discount">Descuento</string>
+    <string name="photo">foto(s)</string>
+    <string name="editPassword">Editar contraseña</string>
+    <string name="navigation_drawer_open">Navegación abierta</string>
+    <string name="navigation_drawer_close">Cerrar navegación</string>
+    <string name="stores_nearby">Tiendas cercanas</string>
+    <string name="show_more">Mostrar todo</string>
+    <string name="view_all">Ver todo</string>
+    <string name="offers_nearby">Ofertas cercanas</string>
+    <string name="events_nearby">Próximos Eventos</string>
+    <string name="people_nearby">Gente cercana</string>
+    <string name="enter_full_name">Ingrese el nombre completo</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="enter_email">Ingrese Correo Electrónico</string>
+    <string name="enter_login">Entrar Iniciar sesión</string>
+    <string name="login">login</string>
+    <string name="login_required">Esta operación requiere autenticación</string>
+    <string name="authentication">Login</string>
+    <string name="open_time">Abierto</string>
+    <string name="open_now">Abierto ahora</string>
+    <string name="closed">Cerrado</string>
+    <string name="join">Unirse</string>
+    <string name="call">Llamar</string>
+    <string name="unjoin">Ingresado</string>
+    <string name="select_category">selecciona una categoría</string>
+    <string name="discount_less_than_25" translatable="false">0-25%</string>
+    <string name="discount_less_than_50" translatable="false">25-50%</string>
+    <string name="discount_less_than_75" translatable="false">50-75%</string>
+    <string name="discount_less_than_100" translatable="false">75-100%</string>
+    <string name="write_name_address_city">Escriba Nombre , Dirección , Ciudad</string>
+    <string name="website">Sitio web</string>
+    <string name="begin_date">Fecha de inicio</string>
+    <string name="open_only">Solo abierto</string>
+    <string name="order_by_recent">Reciente</string>
+    <string name="order_by_geo">Geo</string>
+    <string name="location">Localización</string>
+    <string name="notify_me">Notificarme</string>
+    <string name="remind_me">Recuerdame</string>
+    <string name="remind_me_msg">Al hacer clic en Recordarme, recibirá una notificación sobre este evento</string>
+    <string name="stores_result">resultado de las tiendas</string>
+    <string name="events_result">Resultado de eventos</string>
+    <string name="offers_result">Resultado de ofertas</string>
+    <string name="recent_offers">Ofertas recientes</string>
+    <string name="current_location">Localización actual</string>
+    <string name="price_one_number" translatable="false">$</string>
+    <string name="price_two_numbers" translatable="false">$$</string>
+    <string name="price_three_numbers" translatable="false">$$$</string>
+    <string name="price_four_numbers" translatable="false">$$$$</string>
+    <string name="radius">Radio</string>
+    <string name="distance">Radius</string>
+    <string name="opening_time_label">Hora de apertura</string>
+    <string name="top_categories">Categorías</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="inbox">Bandeja de entrada</string>
+    <string name="network_not_available">No se pudieron cargar los datos del servidor</string>
+    <string name="retry">Rever</string>
+    <string name="try_a_refresh_the_page">Intenta actualizar la página</string>
+    <string name="no_feed_yet">Sin alimentación, todavía</string>
+    <string name="no_message_yet">Ningún mensaje todavía</string>
+    <string name="no_message_inbox">¡Aún no hay mensajes en tu bandeja de entrada! Empieza a chatear con tus amigos</string>
+    <string name="remove_from_bookmark">Quitar de marcadores</string>
+    <string name="error_try_later" translatable="false">¡Algo salió mal, intente más tarde!</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+    <string name="enter_password">Introducir la contraseña</string>
+    <string name="business_manager">Gerente de negocios</string>
+    <string name="login_first">Inicie sesión primero</string>
+    <string name="do_you_want_to_change_your_location">Quieres cambiar tu ubicación ?</string>
+    <string name="search_placeholder">Encuentra restaurantes, hoteles...</string>
+
+
+    <string name="dp_view_store_on">Abrir tienda en la aplicación</string>
+    <string name="dp_view_offer_on">Abrir oferta en la aplicación</string>
+    <string name="dp_view_event_on">Abrir evento en la aplicación</string>
+
+
+    <!--Set your google map key-->
+    <string name="login_create_account">Login / Crear cuenta</string>
+    <string name="forget_password">Has olvidado tu contraseña</string>
+    <string name="sign_up">Registrate</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="have_an_account">Tener una cuenta</string>
+
+
+    <string name="monday">lunes</string>
+    <string name="tuesday">martes</string>
+    <string name="wednesday">miércoles</string>
+    <string name="thursday">jueves</string>
+    <string name="friday">viernes</string>
+    <string name="saturday">sábado</string>
+    <string name="sunday">domingo</string>
+    <string name="redirected_to">\ "Redirigido a \"</string>
+    <string name="people_near_by">Gente cercana</string>
+    <string name="loading">Cargando ...</string>
+    <string name="keep_current_location">locación actual</string>
+    <string name="change_location">Cambiar locación</string>
+
+    <string name="your_order_has_been_sent_successfully">Tu reserva ha sido enviada con éxito!</string>
+    <string name="complet_required_fileds">Asegúrate de completar los campos requeridos primero!</string>
+    <string name="location_format_not_correct">El formato de ubicación no es correcto</string>
+    <string name="location_address_not_correct">La dirección de la ubicación está vacía</string>
+    <string name="click_marker_to_pick_location">Haga clic en el marcador derecho para elegir su ubicación</string>
+
+
+    <string name="promotional_video">Video promocional</string>
+    <string name="checkout">verificar</string>
+    <string name="detail">Detalle</string>
+    <string name="confirm">Confirmar</string>
+    <string name="payment">Pago</string>
+    <string name="done">Hecho</string>
+    <string name="payment_error">Error de pago</string>
+    <string name="confirm_order">Confirmar reservación</string>
+    <string name="confirm_payment">Confirmar pago</string>
+    <string name="required_field">Required fields</string>
+    <string name="find_my_place">Encuentra mi lugar</string>
+    <string name="something_went_wrong">Algo salió mal, inténtalo más tarde!</string>
+    <string name="order_detail_checkout">Detalle de la reserva</string>
+    <string name="pay_now">Pagar ahora</string>
+    <string name="booking_id">ID de reserva: %1$d</string>
+    <string name="basic_detail">Detalle básico</string>
+    <string name="item_s">Servicio(s)</string>
+    <string name="total">Total</string>
+    <string name="booking_status">Estado de la reservación</string>
+    <string name="booking_detail">Detalle de la reserva %1$s</string>
+    <string name="book_btn">reservar</string>
+    <string name="order_btn">Confirmar</string>
+    <string name="order_detail_btn">Detalle de la reserva</string>
+    <string name="service_booking">Servicios</string>
+    <string name="reservation_detail">detalle de la reserva</string>
+    <string name="pickup_from">Detalle de la tienda</string>
+    <string name="store">Tienda</string>
+    <string name="address">Direccion </string>
+    <string name="go_to">Visita la tienda</string>
+    <string name="booking">Reserva</string>
+    <string name="Distance">Unidad de distancia</string>
+    <string name="distance_100">+ 100 %1$s</string>
+    <string name="Date">Fecha</string>
+    <string name="bookingid">ID de reserva</string>
+    <string name="no_service_found_for_this_store">Lamentablemente no hay servicios para esta tienda</string>
+    <string name="discover_stores_nearby">Descubre lugares cercanos</string>
+    <string name="top_picked_for_you">Tiendas mejor valoradas</string>
+    <string name="variant_additional_cost">%1$s</string>
+    <string name="subtotal">Total parcial</string>
+    <string name="no_service_found">No se encontró ningún servicio</string>
+    <string name="paid_cash">Pagado en efectivo</string>
+    <string name="payment_spot">paga en efectivo</string>
+    <string name="delete">Borrar</string>
+    <string name="user_not_logged">Usuario no registrado</string>
+
+    <string name="receive_notif">Quieres recibir una notificación?</string>
+    <string name="recieve_notif_confirmation">\"Al hacer clic en Notificarme, recibirá una notificación de este negocio\"</string>
+
+    <string-array name="distanceUnit">
+        <item>milla</item>
+        <item>km</item>
+    </string-array>
+    <string name="title_activity_report_issue">ActividadDeProblemaDeInforme</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="previous">Previo</string>
+
+    <string name="hello_first_fragment">hola primer fragmento</string>
+    <string name="report_other_issues">Reportar otros problemas</string>
+    <string name="provide_more_detal_for_issue">Proporcione más detalles sobre el problema.</string>
+    <string name="report_saved">\"Informe guardado, gracias\"</string>
+    <string name="report_issue">Reportar problema</string>
+    <string name="disableAccount">Deshabilitar cuenta</string>
+    <string name="icon_angel_up">&#xf015;</string>
+
+
+
+    <string name="MapStoresMenu">Tiendas geográficas</string>
+    <string name="review_title">Reseñas</string>
+    <string name="load_more">Cargar más</string>
+    <!-- WE ADDED SOME MESSAGES IN UPDATE V1.2 YOU CAN PUT THEY IN YOUR MAIN STRINGS.XML -->
+    <string name="logout_alert">Su cuenta está cerrada, eso porque su cuenta está bloqueada o eliminada\Más información contacte al administrador</string>
+    <string name="store_not_found">¡No encontrado!</string>
+    <string name="seeMoreSlider">Ver más</string>
+    <string name="MyQrCode">Código QR</string>
+    <string name="here_is_my_code">Hola %1$s,\wAquí está tu código QR</string>
+    <string name="scan_and_check_my_profile"><![CDATA[Scan & check the profile]]></string>
+    <string name="saveSuccessful">Guardado exitosamente!</string>
+    <string name="removeSuccessful">Eliminado exitoso! </string>
+    <string name="all_categories_menu">Todo</string>
+    <string name="get_coupon_code">Obtener cupón</string>
+    <string name="scan_and_check_coupon">Escanear para comprobar el cupón</string>
+    <string name="sca">Escanear</string>
+    <string name="nav_open">Abierto</string>
+    <string name="nav_close">Cerca</string>
+    <string name="my_account">Mi cuenta</string>
+    <string name="dashboard">Panel</string>
+    <string name="scan">Dashboard</string>
+    <string name="dont_have_permission">No tienes permiso para administrar negocios</string>
+    <string name="qr_code_scanner">Escáner de código QR</string>
+    <string name="address_label">DIRECCIÓN</string>
+    <string name="my_coupons">mis cupones</string>
+    <string name="plans">planes</string>
+    <string name="youtube">Youtube</string>
+
+    <string name="coupon_unverified">No verificado</string>
+    <string name="coupon_verified">Verificado</string>
+    <string name="coupon_used">utilizado</string>
+    <string name="coupon_canceled">Cancelado</string>
+
+    <string name="coupon_code">código: %1$s</string>
+
+    <string name="copy_coupon_code">Copiar código</string>
+    <string name="remove">Eliminar</string>
+    <string name="scan_profile_qr_code">Escanear perfil de usuario</string>
+    <string name="scan_coupon_qr_code">Escanear cupón</string>
+    <string name="scan_reservation_qr_code">Escanear reserva (Booking)</string>
+    <string name="my_bookings">Mis reservas</string>
+    <string name="continueButton">Continuar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="checking_value_profile">Comprobando perfil</string>
+    <string name="checking_value_booking">Comprobando reserva</string>
+    <string name="checking_value_coupon">Comprobando cupón</string>
+    <string name="user_not_found">Usuario no encontrado!</string>
+    <string name="user_verified">Usuario verificado</string>
+    <string name="user_unverified">Usuario no verificado</string>
+    <string name="user_disabled">Usuario deshabilitado</string>
+    <string name="continueScaningButton">continuar escaneando</string>
+    <string name="booking_not_found">Reserva no encontrada</string>
+    <string name="moreDetailBooking">Más detalles</string>
+    <string name="unpaid">No pagado</string>
+    <string name="updateStatusButton">Actualizar estado</string>
+    <string name="update_status">Actualizar el estado de la reserva</string>
+    <string name="confirmBooking">Reserva confirmada</string>
+    <string name="cancelBooking">Cancelar reserva</string>
+    <string name="dissmis">Despedir</string>
+    <string name="coupon_not_valid">Cupón no válido</string>
+    <string name="mark_as_verified">Marcar como verificado</string>
+    <string name="mark_as_declined">Marcar como rechazado</string>
+    <string name="mark_as_used">Marcar como usado</string>
+    <string name="update_coupon_status">Actualizar estado del cupón</string>
+    <string name="mark_as_unverified">Marcar como no verificado</string>
+    <string name="contact">Contacto</string>
+    <string name="alert">Alerta</string>
+    <string name="are_you_sure_alert">Estas seguro?</string>
+    <string name="booking_status_updated">"Estado de la reserva actualizado! "</string>
+    <string name="receive_notifications">Recibir notificaciones</string>
+    <string name="app_notifications">Notificaciones de aplicaciones</string>
+    <string name="create_account">Crear una cuenta</string>
+    <string name="term_of_uses_login_text"><![CDATA[By login in %1$s, you accept our <b>term of use</b> and <b>privacy policy</b>]]></string>
+    <string name="term_of_uses_signup_text"><![CDATA[By creating account in %1$s, you accept our <b>term of use</b> and <b>privacy policy</b>]]></string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="auth_sccuccful">Has iniciado sesión correctamente</string>
+    <string name="auth_failed">Autenticación fallida</string>
+    <string name="show_coupon">Mostrar cupón</string>
+    <string name="limited">Limitado</string>
+    <string name="limit_execeeded">Se excedió el límite</string>
+    <string name="change_language">Change language</string>
+    <string name="english">Inglés</string>
+    <string name="my_profile">Mi perfil</string>
+    <string name="selected_transferBank">Al seleccionar transferencia bancaria, recibirá un correo electrónico para completar el pago.</string>
+    <string name="to_apply_languageMessage">To aplicar el idioma debe reiniciar la aplicación</string>
+    <string name="business_manager_widget_title">%1$s Por negocios</string>
+    <string name="business_manager_widget_description">BImpulse su generación de prospectos y adquisición de clientes.</string>
+    <string name="phone_empty">Phone field is empty</string>
+
+</resources>
