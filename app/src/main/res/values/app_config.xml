@@ -10,13 +10,13 @@
     <string name="PRIVACY_POLICY_URL" translatable="false">https://littlemaster.in/privacy_policy.html</string>
 
     <!--Set your google map key-->
-    <string name="map_api_key" translatable="false">***** MAPS API *****</string>
-    <string name="places_api_key" translatable="false">***** MAPS API *****</string>
+    <string name="map_api_key" translatable="false">AIzaSyC72SEmjFldY71YA8EijZkFka1lHgHwXdc</string>
+    <string name="places_api_key" translatable="false">AIzaSyC72SEmjFldY71YA8EijZkFka1lHgHwXdc</string>
 
     <!-- Google Analytics lets you measu.re your advertising ROI as well as track your Flash-->
     <string name="analytics" translatable="false">UA-XXXXXXXXXXX</string>
     <!--Set Your Application name-->
-    <string name="app_name">NearbyStores</string>
+    <string name="app_name">Little Master</string>
 
     <!--Set Your Application version -->
     <string name="app_version" translatable="false">4.0</string>

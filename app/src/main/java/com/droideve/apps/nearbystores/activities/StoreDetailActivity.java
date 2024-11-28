@@ -1163,13 +1163,16 @@ public class StoreDetailActivity extends SimpleActivity implements
     }
 
     private void moveToPosition(GoogleMap gm, LatLng targetPosition) {
-
-        gm.moveCamera(CameraUpdateFactory.newLatLngZoom(targetPosition, 16));
+        double TraderLat = 13.037360;
+        double TraderLng = 80.200142;
+        LatLng customerPosition = new LatLng(TraderLat, TraderLng);
+        //Toast.makeText(getApplicationContext(), "Map is ready "+customerPosition, Toast.LENGTH_SHORT).show();
+        gm.moveCamera(CameraUpdateFactory.newLatLngZoom(customerPosition, 16));
         gm.getUiSettings().setZoomControlsEnabled(true);
         gm.addMarker(new MarkerOptions()
                 .title(this.getString(R.string.your_destination))
                 .icon(BitmapDescriptorFactory.fromResource(R.drawable.ic_marker))
-                .position(targetPosition));
+                .position(customerPosition));
     }
 
     private void call(){
